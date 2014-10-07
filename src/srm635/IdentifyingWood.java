@@ -1,3 +1,4 @@
+package srm635;
 public class IdentifyingWood {
 	public static String check(String s, String t) {
 		String yep = "Yep, it's wood.";

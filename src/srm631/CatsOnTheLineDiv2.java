@@ -1,3 +1,4 @@
+package srm631;
 
 public class CatsOnTheLineDiv2 {
 
